@@ -231,6 +231,8 @@ input[type='submit']{
   display: none;
  }
  @media(width < 700px){
+     *{size: 50%
+      }
   .aside{
     display: none;
   }
@@ -239,7 +241,7 @@ input[type='submit']{
     flex-direction: column;
   }
      body{
-    background-repeat: no-repeat;
+    background-color: #222
   }
       footer{
     width: 100%;
