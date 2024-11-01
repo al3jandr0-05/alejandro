@@ -241,4 +241,10 @@ input[type='submit']{
      body{
     background-repeat: no-repeat;
   }
+      footer{
+    width: 100%;
+  }
+  .header{
+    width: 100%;
+  }
  }
