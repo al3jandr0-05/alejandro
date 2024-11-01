@@ -228,8 +228,17 @@ input[type='submit']{
     }
   }
  ::-webkit-scrollbar{
-  background-color: transparent;
+  display: none;
  }
- ::-webkit-scrollbar-track{
-  border-radius: 20px;
+ @media(width < 700px){
+  .aside{
+    display: none;
+  }
+  .listas{
+    display: flex;
+    flex-direction: column;
+  }
+     body{
+    background-repeat: no-repeat;
+  }
  }
