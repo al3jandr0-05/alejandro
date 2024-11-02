@@ -122,7 +122,7 @@ img{
     flex-direction: row-reverse;
 }
 footer{
-    background-color: #999999;
+    background-color: grey;
     padding: 10px;
 }
 .footer-contain{
