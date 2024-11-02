@@ -238,7 +238,7 @@ input[type='submit']{
     display: flex;
     flex-direction: column;
   }
-     body{
+ .bodi{
     background-color: #222;
     display: flex;
     flex-direction: column;
